@@ -5,3 +5,5 @@ updated for fast-forwarding
 updated for merge commit
 
 updated for rebase in testrebase branch
+
+C3 in another-rebase
