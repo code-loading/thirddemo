@@ -6,3 +6,5 @@ working to update fast-forward
 updated for merge commit
 
 updated for rebase in master
+
+commit 1 in another-rebase
